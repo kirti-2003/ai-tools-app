@@ -38,6 +38,13 @@ ai-tools-app/
 ### 📍 Prerequisites
 - Node.js & npm installed
 - Git installed
+
+### 1️⃣ Clone the Repository
+
+bash
+git clone https://github.com/kirti-2003/ai-tools-app.git
+cd ai-tools-app
+
  # Install server dependencies
 cd server
 npm install
