@@ -1,0 +1,67 @@
+body {
+  background: #e9edfb;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+h1 {
+  color: #5a8dee;
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+.card {
+  background: #fff;
+  border-radius: 1.25rem;
+  box-shadow: 0 4px 24px rgba(90, 141, 238, 0.08);
+  padding: 2rem;
+  margin-bottom: 2rem;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-title {
+  color: #5a8dee;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.card-category {
+  color: #6c757d;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.card-tags {
+  margin-bottom: 1rem;
+}
+
+.card-tag {
+  display: inline-block;
+  background: #e9edfb;
+  color: #5a8dee;
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.85rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.btn {
+  border-radius: 2rem;
+  padding: 0.5rem 1.5rem;
+  font-weight: 600;
+  border: none;
+  background: #5a8dee;
+  color: #fff;
+  transition: background 0.2s;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #3b5bdb;
+}
