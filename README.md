@@ -78,5 +78,6 @@ Backend: http://localhost:5000
 
 ![image](https://github.com/user-attachments/assets/afda8e65-88d5-478b-8a44-1dc2f8ea9a89)
 
+![image](https://github.com/user-attachments/assets/1fda78c4-1276-42a6-90a5-78cf50a32e47)
 
 
