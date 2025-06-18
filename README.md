@@ -69,3 +69,14 @@ Frontend: http://localhost:3000
 
 Backend: http://localhost:5000
 
+
+![image](https://github.com/user-attachments/assets/b85d24d9-cc23-43c2-8923-7eee3af6faa7)
+
+![image](https://github.com/user-attachments/assets/414e2951-3734-42f1-be44-e8e9b73af5e0)
+
+![image](https://github.com/user-attachments/assets/5a19ddce-5eb1-4d29-a483-7fb41a015ff5)
+
+![image](https://github.com/user-attachments/assets/afda8e65-88d5-478b-8a44-1dc2f8ea9a89)
+
+
+
